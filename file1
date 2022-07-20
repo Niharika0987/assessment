@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 file created
 =======
 c=a+b
@@ -7,3 +8,6 @@ c=a+b
 =======
 c=a-b
 >>>>>>> feature2
+=======
+c=a/b
+>>>>>>> feature3
